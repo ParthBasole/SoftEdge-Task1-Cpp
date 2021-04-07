@@ -1,4 +1,4 @@
 # SoftEdge-Task1-Cpp
 
 
-USAGE  executable <filenamewithpath>
+USAGE  executable filenamewithpath
