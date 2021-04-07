@@ -58,8 +58,8 @@ public :
 
 
 
-int main ()
-{ FileDict::funct("test.txt");
+int main (int argc,char * argv[])
+{ FileDict::funct(argv[1]);
 
  return 0;    
 }
